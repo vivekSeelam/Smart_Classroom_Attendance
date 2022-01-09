@@ -12,3 +12,11 @@ The model not being very large made it possible to deploy in RaspberryPi and the
 
 
 To run the Smart attendance run the pi_face_recognition.py file with python3
+
+
+This is the final output image that we we have obtained after feeding it to our attendace system
+![image](https://user-images.githubusercontent.com/89343614/148693483-11316dc7-226f-4d7c-93b0-82d9bf6a6ae9.png)
+
+This is the excel sheet that is generated which marks the attendance against the name as mentioned in the training folders
+![image](https://user-images.githubusercontent.com/89343614/148693527-e276f7d6-e14d-45ab-b51b-56a3807b96cd.png)
+
