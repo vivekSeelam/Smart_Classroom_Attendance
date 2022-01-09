@@ -1,6 +1,6 @@
 # Smart_Classroom_Attendance
-A final year project by Vivek Seelam and Akhil
-We implemented our face recognition system on the Raspberry pi which is more portable and requires less maintenance. 
+
+We implemented a face recognition system on the Raspberry pi which is more portable and requires less maintenance. 
 The challenge faced for the used algorithm is that it requires high-resolution pictures of more than 30 images per each person 
 
 Considering the amount of time that is wasted in taking the attendance and then to analyse it our solution saves an enormous amount of time in the long run of 
