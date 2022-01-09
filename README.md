@@ -20,3 +20,8 @@ This is the final output image that we we have obtained after feeding it to our 
 This is the excel sheet that is generated which marks the attendance against the name as mentioned in the training folders
 ![image](https://user-images.githubusercontent.com/89343614/148693527-e276f7d6-e14d-45ab-b51b-56a3807b96cd.png)
 
+
+This is a picture to give a rough idea on how this works
+![image](https://user-images.githubusercontent.com/89343614/148693656-f0ad71bd-79e0-4dfe-8de1-392dd3a0eae9.png)
+
+
